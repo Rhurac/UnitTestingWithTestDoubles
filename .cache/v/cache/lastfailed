@@ -1,0 +1,10 @@
+{
+  "test_impl.py::TestChangePassword::()::test_returns_false_if_username_not_exists": true,
+  "test_impl.py::TestChangePassword::()::test_returns_true_if_username_exists": true,
+  "test_impl.py::TestConstructor::()::test_raises_if_invalid_data_store": true,
+  "test_impl.py::TestCreateUser::()::test_false_if_username_already_exists": true,
+  "test_impl.py::TestCreateUser::()::test_new_user_created_given_valid_input": true,
+  "test_impl.py::TestLoginUser::()::test_returns_false_if_password_does_not_match": true,
+  "test_impl.py::TestLoginUser::()::test_returns_false_if_username_does_not_exist": true,
+  "test_impl.py::TestLoginUser::()::test_returns_true_if_username_and_password_exist": true
+}
